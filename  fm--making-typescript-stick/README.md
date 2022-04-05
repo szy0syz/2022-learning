@@ -1,1 +1,0 @@
-# FrontendMasters - Making TypeScript Stick
